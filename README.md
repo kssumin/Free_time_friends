@@ -9,4 +9,4 @@
 | 김채원     | 나혜연     | 강바다   | 김수민    |김나원|
 
 ## Tech Stack
-![FrontEnd]("https://user-images.githubusercontent.com/88534959/158944552-3cb9ae7b-65c9-44de-94b9-6f86afd72689.png"?raw=true)![BackEnd]("https://user-images.githubusercontent.com/88534959/158944790-d1b149d4-d38a-4d52-8fa4-55a27c4ab46c.png"?raw=true)![DB]("https://user-images.githubusercontent.com/88534959/158944837-c1da797b-ab48-439d-8faa-e078a1c4f86d.png"?raw=true)
+![Teck_stack]("https://user-images.githubusercontent.com/88534959/158949329-d26bc9cd-a9f5-446a-879b-44436f59fdc5.png")
