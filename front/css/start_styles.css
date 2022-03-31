@@ -13,6 +13,8 @@ body {
   color: #58595B;
   background-color: #F0E8D9;
   text-align: center;
+  margin-left: auto;
+  margin-bottom: auto;
 }
 
 h1 {
@@ -35,7 +37,7 @@ h1 {
   margin-bottom: 0px;
 }
 
-.intro{
+.subname{
   margin-top: 0px;
   font-size: 50px;
 }
@@ -46,6 +48,53 @@ h1 {
   margin-right: auto;
 
   width: auto; height: auto;
-  max-width: 60%;
+  max-width: 950px;
   border-radius: 10px;
+}
+
+
+.developers{
+     width: 1000px;
+     margin: 0 auto;
+  }
+  
+  .developers .left-img{
+    float: left;
+    width: 700px;
+    margin-right: 40px;
+
+  }
+  .developers .right-list{
+    float: left;
+    width: 250px;
+
+  }
+
+  .person {
+  width: 250px;
+  border: 5px solid #58595B;
+  margin-bottom: 35px;
+  padding: 5px;
+}
+
+.devImg{
+  width: auto; height: auto;
+  max-width: 650px;
+  margin-bottom: 40px;
+}
+
+.role{
+  font-size: 30px;
+}
+.name{
+  font-size: 20px;
+}
+
+.up{
+  clear: both;
+  font-size: 30px;
+  text-decoration: none;
+  color: #58595B;
+  text-align: center;
+  margin-bottom: 30px;
 }
